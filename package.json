@@ -1,7 +1,7 @@
 {
-  "name": "sgctoken",
+  "name": "SecuredGoldCoin",
   "version": "1.0.0",
-  "description": "",
+  "description": "Free Promotional Coin which will be swapped with SGC blockchain coin in future",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Junaid Mushtaq , Talha Yusuf",
   "license": "ISC",
   "dependencies": {
     "openzeppelin-solidity": "^2.0.0",
