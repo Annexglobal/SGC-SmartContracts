@@ -1,7 +1,7 @@
 {
   "name": "SecuredGoldCoin",
   "version": "1.0.0",
-  "description": "Free Promotional Token which will be swapped with SGC blockchain coin in future",
+  "description": "Free Promotional Token which will be swapped with Free Promotional SGC coin in future",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
