@@ -17,3 +17,19 @@ Combining blockchain transparency, security, and immutability with a gold standa
 - Coins will be available for public offer from November 2019
 - The coin will be listed on exchange by November 2019.
 
+
+## SGC Coin Features
+### Security
+Backed by physical gold, immune from counterfeit attempts, and secured with blockchain SGC is going to be the most secure 
+
+### Stability
+SGC is backed by physical gold thus is immune to traditional rise and fall of a cryptocurrency, on durability it exceeds all fiat currencies.
+
+### Usability
+SGC Coins can be used for payments, remittances, gifting, or be bought or sold on global cryptocurrency exchanges.
+
+### Master Card
+With our MasterCard integration option you can link your SGC wallet to MasterCard and pay for shopping using debit card.
+
+### A Universal Gold Backed Currency
+SGC is a global currency so spending across the borders is not an issue. SGC are tradeable and globally portable. As a valued hybrid cryptocurrency, SGC coins can be used for day-to-day payments or stored as an investment for the future.
